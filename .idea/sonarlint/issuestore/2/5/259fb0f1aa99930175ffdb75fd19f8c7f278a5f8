@@ -1,0 +1,6 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¶¯ÿÒ
+=
+java:S1948 "'Make "roles" transient or serializable.(Ùô¶˜
+^
+java:S42754"HRefactor this getter so that it actually refers to the field "username".(ú´­÷
