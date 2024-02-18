@@ -84,7 +84,7 @@ public class S3Cur1TyApplication {
                             .build()
             );
             userRepository.save(User.builder()
-                    .email("root@gmil.com")
+                    .email("admin@gmil.com")
                     .username("admin")
                     .password(passwordEncoder.encode("admin"))
                     .roles(Set.of(adminRole))
